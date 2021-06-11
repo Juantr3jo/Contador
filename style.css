@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(46, 48, 49);
+}
+.hora{
+
+    font-size: 100px;
+    color: bisque;
+    text-align: center;
+    margin-top:50px
+}
+#hor,#min,#seg{
+    background-color:rgb(80, 83, 85); 
+    width: 50px;
+}
